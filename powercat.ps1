@@ -1,4 +1,4 @@
-function powercat
+function port_forword
 {
   param(
     [alias("Client")][string]$c="",
